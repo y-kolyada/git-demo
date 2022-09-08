@@ -2,6 +2,9 @@
 *.db
 *.log
 
+# no directories
+target
+bin
 
 # but do track error.log, even through you'are ignoring .log files above
 !error.log
