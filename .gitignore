@@ -1,5 +1,7 @@
-# no .log files
+# no files
+*.db
 *.log
+
 
 # but do track error.log, even through you'are ignoring .log files above
 !error.log
